@@ -1,4 +1,3 @@
 english
 manglish
-hindi
-malaylam
+hi
